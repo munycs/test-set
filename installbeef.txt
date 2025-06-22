@@ -1,6 +1,6 @@
 apt update
 apt install beef
 n
-apt intall beef-xss
+apt install beef-xss
 y
 beef-xss
